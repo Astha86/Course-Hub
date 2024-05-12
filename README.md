@@ -47,9 +47,9 @@ This project is built using the following technologies:
    -  See a grid of course cards by opening the web application.
    -  A "Like" button, an image, and comprehensive course details are all displayed on each cards.
 
-2. **Navigate Categories
+2. **Navigate Categories**:
    - Utilize the navigation buttons located at the top to filter courses by category.
    - Choose from a diverse range of categories, including Development, Business, Design, and Lifestyle.
 
-3. **Interactive "Like" Button:**:
+3. **Interactive "Like" Button:**
    - A toast notification indicating whether or not the course has been liked or disliked will appear when you click the "Like" button on a course card.
